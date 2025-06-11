@@ -3,8 +3,8 @@ Building CI pipeline
 
 Let's build a CI pipeline that will:
 
-    Run tests on multiple Python versions
-    Run Trivy vulnerability scanner over the codebase
+Run tests on multiple Python versions
+Run Trivy vulnerability scanner over the codebase
 
 Create a new file in the .github/workflows directory called ci.yml.
 Step 1: Add the job to run tests on multiple Python versions
